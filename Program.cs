@@ -28,4 +28,13 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
+app.UseExceptionHandler(appError =>
+{
+    appError.Run(async context =>
+    {
+        context.Response.StatusCode = 500;
+        await context.Response.WriteAsync("An error happened.");
+    });
+});
+
 app.Run();

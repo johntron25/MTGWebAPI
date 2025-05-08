@@ -5,7 +5,7 @@ namespace MTGCardApi.Data
 {
     public class MTGDbContext : DbContext
     {
-        public MTGDbContext(DbContextOptions<MTGDbContext> options) : base(options) {}
+        public MTGDbContext(DbContextOptions<MTGDbContext> options) : base(options) { }
 
         public DbSet<Card> Cards { get; set; }
     }
