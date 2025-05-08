@@ -15,20 +15,16 @@
       "RelativeMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|solutionrelative:data\\mtgdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|c:\\users\\patri\\documents\\.net\\mtgwebapi\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|c:\\users\\patri\\documents\\.net\\mtgwebapi\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|solutionrelative:repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|c:\\users\\patri\\documents\\.net\\mtgwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|c:\\users\\patri\\documents\\.net\\mtgwebapi\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|c:\\users\\patri\\documents\\.net\\mtgwebapi\\migrations\\mtgdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|solutionrelative:migrations\\mtgdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|c:\\users\\patri\\documents\\.net\\mtgwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1499DA4C-D359-43A6-B961-2DA96AF7A56D}|MTGWebAPI.csproj|c:\\users\\patri\\documents\\.net\\mtgwebapi\\migrations\\20250508165456_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -56,33 +52,33 @@
               "RelativeDocumentMoniker": "Data\\MTGDbContext.cs",
               "ToolTip": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Data\\MTGDbContext.cs",
               "RelativeToolTip": "Data\\MTGDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T18:08:00.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Models\\Card.cs",
               "RelativeDocumentMoniker": "Models\\Card.cs",
               "ToolTip": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Models\\Card.cs",
               "RelativeToolTip": "Models\\Card.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T18:02:34.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CardRepository.cs",
               "DocumentMoniker": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Repositories\\CardRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CardRepository.cs",
               "ToolTip": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Repositories\\CardRepository.cs",
               "RelativeToolTip": "Repositories\\CardRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T17:57:13.411Z",
               "EditorCaption": ""
@@ -95,9 +91,22 @@
               "RelativeDocumentMoniker": "Data\\Exceptions\\CardNotFoundException.cs",
               "ToolTip": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Data\\Exceptions\\CardNotFoundException.cs",
               "RelativeToolTip": "Data\\Exceptions\\CardNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T17:27:29.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardsController.cs",
+              "DocumentMoniker": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Migrations\\Controllers\\CardsController.cs",
+              "RelativeDocumentMoniker": "Migrations\\Controllers\\CardsController.cs",
+              "ToolTip": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Migrations\\Controllers\\CardsController.cs",
+              "RelativeToolTip": "Migrations\\Controllers\\CardsController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:56:29.508Z",
               "EditorCaption": ""
             },
             {
@@ -115,33 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CardsController.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Migrations\\Controllers\\CardsController.cs",
-              "RelativeDocumentMoniker": "Migrations\\Controllers\\CardsController.cs",
-              "ToolTip": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Migrations\\Controllers\\CardsController.cs",
-              "RelativeToolTip": "Migrations\\Controllers\\CardsController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T16:56:29.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MTGDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Migrations\\MTGDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\MTGDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Migrations\\MTGDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\MTGDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:26:02.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "20250508165456_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\patri\\Documents\\.Net\\MTGWebAPI\\Migrations\\20250508165456_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250508165456_InitialCreate.cs",
@@ -149,8 +132,7 @@
               "RelativeToolTip": "Migrations\\20250508165456_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T17:26:01.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T17:26:01.498Z"
             }
           ]
         }
